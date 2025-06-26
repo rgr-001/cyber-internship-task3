@@ -1,4 +1,4 @@
-# Task 3 - Vulnerability Assessment
+# Vulnerability Assessment
 
 ## 🎯 Objective
 To perform a vulnerability scan on the local machine using Nessus Essentials and report the findings.
